@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-    <version>1.2.2753 rev705</version>
+    <version>1.2.2900 rev813</version>
     <activeMods>
         <li>brrainz.harmony</li>
         <li>me.samboycoding.betterloading</li>
         <li>ludeon.rimworld</li>
         <li>ludeon.rimworld.royalty</li>
         <li>unlimitedhugs.hugslib</li>
+        <li>dylan.csl</li>
+        <li>name.krypt.rimworld.rwlayout.alpha2</li>
         <li>oskarpotocki.vanillafactionsexpanded.core</li>
-        <li>regrowth.botr.core</li>
         <li>shakeyourbunny.betterreportprobablymissingattributes</li>
         <li>madeline.modmismatchformatter</li>
         <li>arandomkiwi.rimsaves</li>
+        <li>roolo.giddyupcore</li>
+        <li>roolo.giddyupcaravan</li>
+        <li>roolo.giddyupbattlemounts</li>
+        <li>roolo.giddyuprideandroll</li>
+        <li>sarg.giddyupsaddles</li>
         <li>com.yayo.combat3</li>
         <li>mlie.suprememelee</li>
+        <li>mastertea.randomplus</li>
         <li>roolo.runandgun</li>
         <li>uuugggg.thickarmor</li>
         <li>dubwise.dubsbadhygiene</li>
+        <li>haplo.miscellaneous.robots</li>
+        <li>alaestor.miscrobots.plusplus</li>
+        <li>elf.miscrobots.worktab.support</li>
         <li>moretraitslots.kv.rw</li>
         <li>alias.degeneralizework</li>
         <li>vat.epoeforked</li>
@@ -26,13 +36,17 @@
         <li>spino.megafauna</li>
         <li>sarg.geneticrim</li>
         <li>sarg.geneticrimmegafauna</li>
+        <li>spincrus.dinosauria</li>
+        <li>sarg.geneticrimdinosauria</li>
+        <li>packmulesextended.dinosauria</li>
         <li>com.bymarcin.architecticons</li>
         <li>usagirei.pocketsand</li>
         <li>derekbickley.ltocolonygroupsfinal</li>
-        <li>notooshabby.awesomeinventory</li>
+        <li>name.krypt.rimworld.pawntablegrouped</li>
         <li>edb.preparecarefully</li>
-        <li>walkingproblem.wildanimalsex</li>
+        <li>dninemfive.wildreproduction</li>
         <li>mlie.fallouttraits</li>
+        <li>mlie.inventorytab</li>
         <li>bodlosh.floratab</li>
         <li>neceros.reinforcedwalls</li>
         <li>wemd.reinforceddoors</li>
@@ -42,8 +56,11 @@
         <li>dubwise.dubsrimkit</li>
         <li>mlie.dismisstrader</li>
         <li>notfood.infused</li>
+        <li>undone.igniteeverything</li>
         <li>notfood.mendandrecycle</li>
         <li>rimfridge.kv.rw</li>
+        <li>brrainz.cameraplus</li>
+        <li>thomotron.phinix</li>
         <li>krafs.levelup</li>
         <li>navyseal5.moreharvestdesignators</li>
         <li>mehni.numbers</li>
@@ -65,12 +82,14 @@
         <li>ghxx.techadvancing</li>
         <li>jamaicancastle.rf.fertilefields</li>
         <li>tradingspot.kv.rw</li>
+        <li>vanillaexpanded.vtexe</li>
         <li>vanillaexpanded.vbookse</li>
         <li>vanillaexpanded.vbrewe</li>
         <li>vanillaexpanded.vappe</li>
         <li>vanillaexpanded.vbrewecandt</li>
         <li>vanillaexpanded.varme</li>
         <li>vanillaexpanded.vcef</li>
+        <li>regrowth.botr.core</li>
         <li>vanillaexpanded.vplantse</li>
         <li>vanillaexpanded.vcooke</li>
         <li>oskarpotocki.vfe.insectoid</li>
@@ -81,7 +100,6 @@
         <li>vanillaexpanded.vfepower</li>
         <li>vanillaexpanded.vfeproduction</li>
         <li>vanillaexpanded.vfesecurity</li>
-        <li>vanillaexpanded.vtexe</li>
         <li>vanillaexpanded.vtexgr</li>
         <li>vfme.caravanpacks</li>
         <li>phoenix.vanillasolarsheild</li>
@@ -108,9 +126,11 @@
         <li>syrchalis.harvestyieldpatch</li>
         <li>syrchalis.setupcamp</li>
         <li>mlie.sdluciferiumproduction</li>
-        <li>earthyturtle.letstrade</li>
+        <li>zhrocks11.letstrade</li>
         <li>pinochemicali.skilledstonecutting</li>
+        <li>mlie.foodalert</li>
         <li>troopersmith1.deathrattle</li>
+        <li>mlie.morefactioninteraction</li>
         <li>nilchei.dynamicdiplomacy</li>
         <li>razor2.3.anotherrimworldmod.autocutblight</li>
         <li>automatic.bionicicons</li>
@@ -129,7 +149,6 @@
         <li>marvinkosh.ughyougotme</li>
         <li>brrainz.justignoremepassing</li>
         <li>mlie.lessarbitrarysurgery</li>
-        <li>jkluch.haultostack</li>
         <li>ratys.madskills</li>
         <li>mlie.runandhide</li>
         <li>neceros.ninetyninepercent</li>
@@ -143,13 +162,16 @@
         <li>co.uk.epicguru.whatsthatmod</li>
         <li>insertkey.itemlistselector</li>
         <li>ogre.ogrestack</li>
+        <li>tammybee.cutplantsbeforebuilding</li>
+        <li>uuugggg.buildfrominventory</li>
         <li>dhultgren.smarterconstruction</li>
+        <li>codeoptimist.jobsofopportunity</li>
         <li>weilbyte.snapout</li>
         <li>knight.useyourgun</li>
         <li>alex.friendlyfiretweaks</li>
         <li>paragon.hanul.utility</li>
         <li>grimm.unlimited</li>
-        <li>brrainz.achtung</li>
+        <li>petetimessix.compacthediffs</li>
         <li>mehni.misc.modifications</li>
         <li>jp.perfectpathing</li>
         <li>majorhoff.rimthreaded</li>
