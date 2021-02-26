@@ -7,4 +7,4 @@ The objective of this ModPack is to have the highest amount of TPS with the high
 
 
 Please use RimPy to load this modlist into your game
-The latest version of Rimpy can be gotten from Rimpy's discord: https://discord.gg/m9u63kD8
+The latest version of Rimpy can be gotten from https://steamcommunity.com/sharedfiles/filedetails/?id=1847679158
